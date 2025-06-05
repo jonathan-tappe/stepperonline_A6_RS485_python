@@ -5,7 +5,7 @@ import atexit
 from driver import Driver
 from motor import Motor
 
-PORT = "/dev/tty.usbmodem58B60081891"
+PORT = ""
 DEBUG_MODE = True
 
 
